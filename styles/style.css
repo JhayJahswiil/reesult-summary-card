@@ -198,7 +198,8 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: 50px;
+  position: absolute;
+  bottom: 10px;
 }
 .attribution a {
   color: #3e52a3;
