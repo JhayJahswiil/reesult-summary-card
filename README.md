@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontend-bootcamp-result-summary-card](https://frontend-bootcamp-result-summary-card.netlify.app/)
+- Live Site URL: [frontend-bootcamp-result-summary-card](https://frontend-bootcamp-result-summary-card.netlify.app/)
 
 ## My process
 
