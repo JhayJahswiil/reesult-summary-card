@@ -8,8 +8,9 @@
 }
 
 body {
+  position: relative;
   width: 100%;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -203,4 +204,11 @@ body {
 }
 .attribution a {
   color: #3e52a3;
+}
+@media screen and (max-width: 550px) {
+  .attribution {
+    position: relative;
+    bottom: 0;
+    margin-top: 10px;
+  }
 }/*# sourceMappingURL=style.css.map */
